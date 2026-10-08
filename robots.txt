@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-kpwe0p.leaning.app/sitemap.xml
